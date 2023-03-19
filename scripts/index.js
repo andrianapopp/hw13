@@ -8,7 +8,8 @@ if (!isNaN(age) && age !== "") {
         alert(`Вам ${age} лет`)
     } else if (lastNamber >= 2 && lastNamber <= 4) {
         alert(`Вам ${age} года`)
-    } else {
-        alert('Введите ваш возраст!')
-    }
+}
+else {
+    alert('Введите ваш возраст!')
+}
 }
